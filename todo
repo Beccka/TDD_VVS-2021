@@ -1,6 +1,11 @@
-$5 + 10 CHF = $10 if rate 2:1
+$5 + 10 EUR = $10 if rate 2:1
 • $5 * 2 = $10 (feito S12)
-Fazer 'amount' private (feito S14)
-Dollar side-effects? (feito S13)
+Fazer 'amount' private
+• Dollar side-effects? (feito S13)
 Arredondamento de Dinheiro/float
-equals() (feito S13)
+equals()
+• Francs are obsolete! (feito S14)
+Equals nulls
+• 5 EUR * 2 = 10 EUR (feito S14)
+Compare Euros with Dollars
+Common times
