@@ -1,13 +1,14 @@
 $5 + 10 EUR = $10 if rate 2:1
 • $5 * 2 = $10 (feito S12)
-Fazer 'amount' private
+• Fazer 'amount' private (feito S14)
 • Dollar side-effects? (feito S13)
 Arredondamento de Dinheiro/float
-equals()
+• equals() (feito S13)
 • Francs are obsolete! (feito S14)
 Equals nulls
 • 5 EUR * 2 = 10 EUR (feito S14)
 • Compare Euros with Dollars (feito S14)
-Common times
-Currency?
-Fazer 'currency' private
+• Common times (feito S14)
+• Currency?(feito S14 )
+Dollar / Euro duplication
+• Fazer 'currency' private (feito S14)
