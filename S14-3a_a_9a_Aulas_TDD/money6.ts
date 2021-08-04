@@ -1,4 +1,7 @@
 export abstract class Money{
+    currency(): any {
+        throw new Error('Method not implemented.');
+    }
     public amount: number; 
 
     static dollar(amount: number): Money{
