@@ -1,6 +1,10 @@
 ------------------------- S15 -------------------------------------
 $5 + 10 EUR = $10 if rate 2:1
-$5 + $5 = $10
+$5 + $5 = $10 
+Return Money from $5 + $5
+Bank.reduce(Money) (feito S15)
+reduce Money with conversion 
+Reduce(Bank, String)
 
 
 
