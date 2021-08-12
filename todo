@@ -1,3 +1,12 @@
+------------------------- S15 -------------------------------------
+$5 + 10 EUR = $10 if rate 2:1
+$5 + $5 = $10
+
+
+
+
+
+------------------- Até S15 ---------------------------------------
 $5 + 10 EUR = $10 if rate 2:1
 • $5 * 2 = $10 (feito S12)
 • Fazer 'amount' private (feito S14)
@@ -10,5 +19,5 @@ Equals nulls
 • Compare Euros with Dollars (feito S14)
 • Common times (feito S14)
 • Currency?(feito S14 )
-Dollar / Euro duplication
+• Dollar / Euro duplication (feito S14)
 • Fazer 'currency' private (feito S14)
